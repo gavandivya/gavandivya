@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 📌 I am 𝐃𝐢𝐯𝐲𝐚 𝐆𝐚𝐯𝐚𝐧𝐝𝐢, pursued my 𝐁.𝐓𝐞𝐜𝐡 from 𝐒𝐚𝐫𝐝𝐚𝐫 𝐏𝐚𝐭𝐞𝐥 𝐈𝐧𝐬𝐭𝐢𝐭𝐮𝐭𝐞 𝐨𝐟 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲, Mumbai (𝗦𝗣𝗜𝗧'𝟮𝟭). 
 
 
- 🔹My 𝐖𝐞𝐛 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 journey began in 2018 when I completed my diploma and designed a website for the college committee and interned with some micro-enterprises. Now it's almost more than 𝟑 𝐲𝐞𝐚𝐫𝐬.
-I have been programming and have discovered my passion for 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭.
+ 🔹My 𝐖𝐞𝐛 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 journey began in 2018 when I completed my diploma and designed a website for the college committee and interned with some micro-enterprises. Now it's almost more than 𝟑 𝐲𝐞𝐚𝐫𝐬, I have been programming and have discovered my passion for 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭.
 
 📌I'm currently working as a 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐢𝐧 𝐈𝐂𝐈𝐂𝐈 𝐋𝐨𝐦𝐛𝐚𝐫𝐝 where my major task is to work on building User Interface of Web Portals using 𝐀𝐧𝐠𝐮𝐥𝐚𝐫 𝟏𝟐 and integrating it with API.
 
