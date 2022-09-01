@@ -21,15 +21,7 @@ Here are some ideas to get you started:
 
  🔹My 𝐖𝐞𝐛 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 journey began in 2018 when I completed my diploma and designed a website for the college committee and interned with some micro-enterprises. Now it's almost more than 𝟑 𝐲𝐞𝐚𝐫𝐬, I have been programming and have discovered my passion for 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭.
 
-📌I'm currently working as a 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐢𝐧 𝐈𝐂𝐈𝐂𝐈 𝐋𝐨𝐦𝐛𝐚𝐫𝐝 where my major task is to work on building User Interface of Web Portals using 𝐀𝐧𝐠𝐮𝐥𝐚𝐫 𝟏𝟐 and integrating it with API.
-
-Portals I have worked on till date
-
-1)SPARK(Document Verification)
-
-2)iLeads(For leads managing)
-
-3)Plutus(Payment System)
+📌I'm currently working as a 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐢𝐧 𝐈𝐂𝐈𝐂𝐈 𝐋𝐨𝐦𝐛𝐚𝐫𝐝 where my major task is to work on building User Interface of Web Portals using 𝐀𝐧𝐠𝐮𝐥𝐚𝐫 𝟏𝟐 and integrating it with APIs build using .Net core.
 
 
 ---------------------------------------------------------------------------------------------------
