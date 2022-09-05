@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 📌I'm currently working as a 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐢𝐧 𝐈𝐂𝐈𝐂𝐈 𝐋𝐨𝐦𝐛𝐚𝐫𝐝 where my major task is to work on building User Interface of Web Portals using 𝐀𝐧𝐠𝐮𝐥𝐚𝐫 𝟏𝟐 and integrating it with APIs build using .Net core.
 
-
 ---------------------------------------------------------------------------------------------------
 
 
@@ -69,4 +68,13 @@ Familiar with Backend Development and Database management ➡
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) https://divyagavandi-portfolio.netlify.app/
 
 
-[![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavandivya)](https://github.com/gavandivya/github-readme-stats)
+<!--[![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavandivya&show_icons=true&theme=dracula)](https://github.com/gavandivya/github-readme-stats)-->
+
+
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=gavandivya&show_icons=true&theme=dracula"/>
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gavandivya&layout=compact&theme=algolia"/>
+</div>
+
+
+
