@@ -29,19 +29,39 @@ Here are some ideas to get you started:
 
 𝗠𝘆 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀💻
 
-Languages ➡ 𝐉𝐚𝐯𝐚, 𝐏𝐲𝐭𝐡𝐨𝐧, 𝐓𝐲𝐩𝐞𝐬𝐜𝐫𝐢𝐩𝐭, 𝐉𝐚𝐯𝐚𝐬𝐜𝐫𝐢𝐩𝐭, 𝐂++.
+Languages ➡ 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-Frontend Development ➡ 𝐇𝐓𝐌𝐋𝟓, 𝐂𝐒𝐒, 𝐁𝐨𝐨𝐭𝐬𝐭𝐫𝐚𝐩, 𝐓𝐚𝐢𝐥𝐰𝐢𝐧𝐝 𝐂𝐒𝐒, 𝐀𝐧𝐠𝐮𝐥𝐚𝐫, 𝐚𝐧𝐝 𝐑𝐞𝐚𝐜𝐭.
 
-Framework ➡ 𝐃𝐣𝐚𝐧𝐠𝐨 𝐚𝐧𝐝 𝐀𝐧𝐠𝐮𝐥𝐚𝐫.
+Frontend Development ➡ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-Tools➡ 𝐙𝐞𝐩𝐥𝐢𝐧, 𝐅𝐢𝐠𝐦𝐚, 𝐆𝐢𝐭𝐡𝐮𝐛, 𝐆𝐢𝐭𝐥𝐚𝐛, 𝐁𝐢𝐭𝐛𝐮𝐜𝐤𝐞𝐭, 𝐚𝐧𝐝 𝐉𝐢𝐫𝐚.
 
-Familiar with Backend Development and Database management ➡ 𝐒𝐐𝐋, 𝐍𝐨𝐝𝐞𝐣𝐬, 𝐌𝐨𝐧𝐠𝐨𝐃𝐁, 𝐚𝐧𝐝 𝐅𝐢𝐫𝐞𝐛𝐚𝐬𝐞.
+Tools➡ ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+Familiar with Backend Development and Database management ➡ 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---------------------------------------------------------------------------------------------------
 📫 How to reach me: ...
 
-Email ➡ onlyforcode19@gmail.com
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) -  onlyforcode19@gmail.com
 
-Linked in ➡ www.linkedin.com/in/divya-gavandi
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) -  www.linkedin.com/in/divya-gavandi
+
