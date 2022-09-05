@@ -73,6 +73,6 @@ Familiar with Backend Development and Database management ➡
 
 
 <div>
- <img src="https://github-readme-stats.vercel.app/api?username=gavandivya"/>
+ <img width="50%" src="https://github-readme-stats.vercel.app/api?username=gavandivya"/>
 <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gavandivya&layout=compact"/>
 </div>
