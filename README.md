@@ -68,3 +68,5 @@ Familiar with Backend Development and Database management ➡
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) https://divyagavandi-portfolio.netlify.app/
 
+
+[![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavandivya)](https://github.com/gavandivya/github-readme-stats)
