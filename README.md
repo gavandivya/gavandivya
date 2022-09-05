@@ -66,3 +66,5 @@ Familiar with Backend Development and Database management ➡
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white) www.linkedin.com/in/divya-gavandi
 
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) https://divyagavandi-portfolio.netlify.app/
+
