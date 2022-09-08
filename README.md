@@ -68,7 +68,7 @@ Familiar with Backend Development and Database management ➡
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) https://divyagavandi-portfolio.netlify.app/
 
-![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white) - https://hashnode.com/@gavandivya19
+![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=plastic&logo=hashnode&logoColor=white) - https://hashnode.com/@gavandivya19
 
 
 <!--[![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavandivya)](https://github.com/gavandivya/github-readme-stats)-->
