@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 ## 𝗛𝗲𝗹𝗹𝗼, 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗼𝗻𝘀!👋
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gavandivya&style=plastic" alt="profile-view" /> </p>
+
 📌 I am 𝐃𝐢𝐯𝐲𝐚 𝐆𝐚𝐯𝐚𝐧𝐝𝐢, pursued my 𝐁.𝐓𝐞𝐜𝐡 from 𝐒𝐚𝐫𝐝𝐚𝐫 𝐏𝐚𝐭𝐞𝐥 𝐈𝐧𝐬𝐭𝐢𝐭𝐮𝐭𝐞 𝐨𝐟 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲, Mumbai (𝗦𝗣𝗜𝗧'𝟮𝟭). 
 
 
