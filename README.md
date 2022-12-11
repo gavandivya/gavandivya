@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 📌I'm currently working as a 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐢𝐧 𝐈𝐂𝐈𝐂𝐈 𝐋𝐨𝐦𝐛𝐚𝐫𝐝 where my major task is to work on building User Interface of Web Portals using 𝐀𝐧𝐠𝐮𝐥𝐚𝐫 𝟏𝟐 and integrating it with APIs build using .Net core.
 
-
 ---------------------------------------------------------------------------------------------------
 𝗠𝘆 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀💻
 
