@@ -18,12 +18,11 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gavandivya&style=plastic" alt="profile-view" /> </p>
 
-📌 I am 𝐃𝐢𝐯𝐲𝐚 𝐆𝐚𝐯𝐚𝐧𝐝𝐢, pursued my 𝐁.𝐓𝐞𝐜𝐡 from 𝐒𝐚𝐫𝐝𝐚𝐫 𝐏𝐚𝐭𝐞𝐥 𝐈𝐧𝐬𝐭𝐢𝐭𝐮𝐭𝐞 𝐨𝐟 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲, Mumbai (𝗦𝗣𝗜𝗧'𝟮𝟭). 
+📌 I am **Divya Gavandi,** pursued my **B.Tech from Sardar Patel Institute of Technology, Mumbai (𝗦𝗣𝗜𝗧'𝟮𝟭).** 
 
+📌 My **Web Develepment** journey began in **2018** when I completed my diploma and designed a website for the college committee and interned with some micro-enterprises. Now it's almost more than 𝟑 𝐲𝐞𝐚𝐫𝐬, I have been programming and have discovered my passion for **Frontend Developement.**
 
- 🔹My 𝐖𝐞𝐛 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 journey began in 2018 when I completed my diploma and designed a website for the college committee and interned with some micro-enterprises. Now it's almost more than 𝟑 𝐲𝐞𝐚𝐫𝐬, I have been programming and have discovered my passion for 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭.
-
-📌I'm currently working as a 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐢𝐧 𝐈𝐂𝐈𝐂𝐈 𝐋𝐨𝐦𝐛𝐚𝐫𝐝 where my major task is to work on building User Interface of Web Portals using 𝐀𝐧𝐠𝐮𝐥𝐚𝐫 𝟏𝟐 and integrating it with APIs build using .Net core.
+📌 I'm currently working as a **Full Stack Developer in ICICI Lombard**  where my major task is to work on building **User Interface of Web Portals using Angular 12 , React and making web API's using .Net Core**
 
 ---------------------------------------------------------------------------------------------------
 𝗠𝘆 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀💻
@@ -37,10 +36,11 @@ Languages ➡
 Frontend Development ➡ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white)
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=plastic&logo=chakraui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+
 
 Tools➡ ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
