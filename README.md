@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gavandivya&style=plastic" alt="profile-view" /> </p>
 
-📌 I am **Divya Gavandi,** pursued my **B.Tech from Sardar Patel Institute of Technology, Mumbai (𝗦𝗣𝗜𝗧'𝟮𝟭).** 
+📌 I am **Divya Gavandi,** pursued my **B.Tech from Sardar Patel Institute of Technology, Mumbai (𝗦𝗣𝗜𝗧'𝟮𝟭)** 
 
 📌 My **Web Develepment** journey began in **2018** when I completed my diploma and designed a website for the college committee and interned with some micro-enterprises. Now it's almost more than 𝟑 𝐲𝐞𝐚𝐫𝐬, I have been programming and have discovered my passion for **Frontend Developement.**
 
