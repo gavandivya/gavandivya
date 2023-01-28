@@ -45,7 +45,7 @@ Familiar with Backend Development and Database management ➡
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 
 ---------------------------------------------------------------------------------------------------
-📫 How to reach me: ...
+📫Lets connect at
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white) onlyforcode19@gmail.com
 
