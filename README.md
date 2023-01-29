@@ -1,9 +1,8 @@
 
 <div align="center">
 <img width="200px" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
-
+ 
 </div>
-
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gavandivya&style=plastic" alt="profile-view" /> </p>
 
