@@ -1,12 +1,15 @@
+<!--<p align="center" display="block">
+  <img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&vCenter=true&center=true&font=Fira+Code&pause=1000&color=FF6A00&width=700&lines=This+is+Divya+Gavandi;+Frontend+Web+Developer;" alt="Typing SVG" />
+</p>-->
+
 
 <div align="center">
 <img width="200px" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
- 
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gavandivya&style=plastic" alt="profile-view" /> </p>
 
-## 𝗛𝗲𝗹𝗹𝗼, 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗼𝗻𝘀!👋
+## 𝗛𝗲𝗹𝗹𝗼, 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗼𝗻𝘀!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 📌 I am **Divya Gavandi,** pursued my **B.Tech from Sardar Patel Institute of Technology, Mumbai (𝗦𝗣𝗜𝗧'𝟮𝟭)** 
 
