@@ -1,6 +1,3 @@
-<!--<p align="center" display="block">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&vCenter=true&center=true&font=Fira+Code&pause=1000&color=FF6A00&width=700&lines=This+is+Divya+Gavandi;+Frontend+Web+Developer;" alt="Typing SVG" />
-</p>-->
 <div align="center">
 <img width="200px" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
 </div>
@@ -56,6 +53,7 @@ Familiar with Backend Development and Database management ➡
 ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=plastic&logo=hashnode&logoColor=white) - https://hashnode.com/@gavandivya19
 
 <!--[![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavandivya)](https://github.com/gavandivya/github-readme-stats)-->
+
 
 <div>
  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=gavandivya"/>
