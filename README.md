@@ -56,7 +56,7 @@ Familiar with Backend Development and Database management ➡
 
 <div>
  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=gavandivya"/>
-<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gavandivya&layout=compact"/>
+<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gavandivya&layout=compact"/>
 </div>
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gavandivya&layout=compact" alt="ongoing-streak-divya" /></p>
