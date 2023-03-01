@@ -42,7 +42,7 @@ Familiar with Backend Development and Database management ➡
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 
 ---------------------------------------------------------------------------------------------------
-📫Lets connect at
+📫Lets connect at 
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white) onlyforcode19@gmail.com
 
@@ -59,4 +59,5 @@ Familiar with Backend Development and Database management ➡
 <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gavandivya&layout=compact"/>
 </div>
 <br>
+
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gavandivya&layout=compact" alt="ongoing-streak-divya" /></p>
