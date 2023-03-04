@@ -13,6 +13,7 @@
 📌 I'm currently working as a **Full Stack Developer in ICICI Lombard**, having 2 years of experience where my major task is to work on building **User Interface of Web Portals using React, Angular 12 , and making web API's using .Net Core**
 
 ---------------------------------------------------------------------------------------------------
+
 𝗠𝘆 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀💻
 
 Languages ➡ 
