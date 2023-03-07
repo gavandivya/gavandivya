@@ -45,6 +45,7 @@ Familiar with Backend Development and Database management ➡
 ---------------------------------------------------------------------------------------------------
 📫Lets connect at 
 
+
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white) onlyforcode19@gmail.com
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white) www.linkedin.com/in/divya-gavandi
