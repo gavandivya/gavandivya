@@ -40,7 +40,7 @@ Familiar with Backend Development and Database management ➡
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 
----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
 
 📫Lets connect at 
 
