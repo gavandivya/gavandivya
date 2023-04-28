@@ -53,7 +53,6 @@ Familiar with Backend Development and Database management ➡
 ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=plastic&logo=hashnode&logoColor=white) - https://hashnode.com/@gavandivya19
 
 <!--[![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavandivya)](https://github.com/gavandivya/github-readme-stats)-->
-
 <br>
 <div>
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=gavandivya&theme=github_dark"/>
