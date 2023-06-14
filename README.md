@@ -52,7 +52,7 @@ Familiar with Backend Development and Database management ➡
 <!--[![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavandivya)](https://github.com/gavandivya/github-readme-stats)-->
 <br>
 <div>
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=gavandivya&theme=github_dark"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=gavandivya&theme=github_dark&rank_icon=github"/>
 <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gavandivya&theme=github_dark&layout=compact"/>
 </div>
 <br>
