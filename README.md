@@ -7,7 +7,7 @@
 
 📌 I am **Divya R. Gavandi,** pursued my **B.Tech from Sardar Patel Institute of Technology, Mumbai (𝗦𝗣𝗜𝗧'𝟮𝟭)** 
 
-📌 I'm currently working as a **Full Stack Developer in ICICI Lombard**, having 2+ years of experience where my major task is to work on building **User Interface of Web Portals using React JS, Angular 12, and making web APIs using .Net Core**
+📌 I'm currently working as a **Software Developer in BillDesk**, having 2+ years of experience where my major task is to work on building **User Interface of Web Portals using React TS, Tailwind CSS, HTML5, CSS3 and Typescript.
 
 📌 My **Web Development** journey began in **2018** when I completed my diploma and designed a website for the college committee and interned with some micro-enterprises. Now it's almost more than 𝟑 𝐲𝐞𝐚𝐫𝐬, I have been programming and have discovered my passion for **Frontend Web Development.**
 
