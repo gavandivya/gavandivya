@@ -6,7 +6,7 @@
 
 ## 𝗛𝗲𝗹𝗹𝗼, 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗼𝗻𝘀! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-📌 I am **Divya R. Gavandi,** pursued my **B.Tech from Sardar Patel Institute of Technology, Mumbai (𝗦𝗣𝗜𝗧'𝟮𝟭)** 
+📌 I am **Divya R. Gavandi,** pursued my **B.Tech in Computer Science from Sardar Patel Institute of Technology, Mumbai (𝗦𝗣𝗜𝗧'𝟮𝟭)** 
 
 📌 I'm currently working as a **Software Engineer in BillDesk**, having 2+ years of experience where my major task is to work on building **User Interface of Web Portals using React TS, Tailwind CSS, HTML5, CSS3 and Typescript.**
 
