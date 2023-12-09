@@ -9,7 +9,9 @@
 
 📌 I'm currently working as a **Software Engineer in BillDesk**, having 3+ years of experience where my major task is to work on building **User Interface of Web Portals using React TS, Tailwind CSS, HTML5, CSS3 and Typescript.**
 
-📌 My **Web Development** journey began in **2018** when I completed my diploma and designed a website for the college committee and interned with some micro-enterprises. Now it's almost more than 𝟑 𝐲𝐞𝐚𝐫𝐬, I have been programming and have discovered my passion for **Frontend Web Development.**
+📌I worked in **ICICI Lombard GIC** for 2 years as a **Full Stack Developer**  where the techstack was Angular 12, ReactJS and .NetCore.
+
+📌 My **Web Development** journey began in **2018** when I completed my diploma and designed a website for the college committee and interned with some micro-enterprises. Now it's almost more than 5 𝐲𝐞𝐚𝐫𝐬, I have been programming and have discovered my passion for **Frontend Web Development.**
 
 ---------------------------------------------------------------------------------------------------
 𝗠𝘆 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀💻
