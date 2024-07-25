@@ -7,7 +7,7 @@
 
 📌 I am **Divya R. Gavandi,** pursued my **B.Tech in Computer Science from Sardar Patel Institute of Technology, Mumbai (𝗦𝗣𝗜𝗧'𝟮𝟭)** 
 
-📌 I'm currently working as a **Software Engineer in BillDesk**, having 3+ years of experience where my major task is to work on building **User Interface of Web Portals using React TS, Tailwind CSS, HTML5, CSS3 and Typescript.**
+📌 I'm currently working as a **Frontend Engineer in BillDesk**, having 3+ years of experience where my major task is to work on building **User Interface of Web Portals using React TS, Tailwind CSS, HTML5, CSS3 and Typescript.**
 
 📌 I worked in **ICICI Lombard GIC** for 2+ years as a **Full Stack Developer**  where the techstack was Angular 12, ReactJS and .NetCore.
 
