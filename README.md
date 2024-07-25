@@ -1,6 +1,12 @@
-<div align="center">
+<!--<div align="center">
 <img width="200px" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
-</div>
+</div>-->
+
+<p align="center">
+  <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=gavandivya&bg_color=0d1117&color=58A6FF&line=58A6FF&point=e27429&area=true&hide_border=false" />
+<a href="https://github.com/gavandivya/github-stats">
+</p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gavandivya&style=plastic" alt="profile-view" /></p>
 
 ## 𝗛𝗲𝗹𝗹𝗼, 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗼𝗻𝘀! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
@@ -59,10 +65,4 @@ Familiar with Backend Development and Database management ➡
 </div>
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gavandivya&layout=compact&theme=github_dark" alt="ongoing-streak-divya" /></p>
-
-<p align="center">
-  <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=gavandivya&bg_color=0d1117&color=58A6FF&line=58A6FF&point=e27429&area=true&hide_border=false" />
-<a href="https://github.com/gavandivya/github-stats">
-</p>
-
 
