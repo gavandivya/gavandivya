@@ -1,7 +1,6 @@
 <!--<div align="center">
 <img width="200px" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
 </div>-->
-
 <p align="center">
   <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=gavandivya&bg_color=0d1117&color=58A6FF&line=58A6FF&point=e27429&area=true&hide_border=false" />
 <a href="https://github.com/gavandivya/github-stats">
