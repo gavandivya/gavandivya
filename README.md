@@ -6,7 +6,6 @@
 <a href="https://github.com/gavandivya/github-stats">
 </p>
 
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gavandivya&style=plastic" alt="profile-view" /></p>
 
 ## 𝗛𝗲𝗹𝗹𝗼, 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗼𝗻𝘀! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
