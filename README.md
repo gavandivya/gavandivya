@@ -12,11 +12,13 @@
 
 📌 I am **Divya R. Gavandi,** pursued my **B.Tech in Computer Science from Sardar Patel Institute of Technology, Mumbai (𝗦𝗣𝗜𝗧'𝟮𝟭)** 
 
-📌 I'm currently working as a **Frontend Engineer in BillDesk**, having 3+ years of experience where my major task is to work on building **User Interface of Web Portals using React TS, Tailwind CSS, HTML5, CSS3 and Typescript.**
+📌 As a passionate Frontend Web Developer, I thrive on creating dynamic and user-centric web applications that drive innovation in the fintech space. My journey began with a fascination for coding and problem-solving, which led me to specialize in React.js and modern frontend technologies.
 
-📌 I worked in **ICICI Lombard GIC** for 2+ years as a **Full Stack Developer**  where the techstack was Angular 12, ReactJS and .NetCore.
+📌 I have experience upgrading Node.js applications, addressing security vulnerabilities, and implementing CI/CD pipelines with GitLab to streamline deployments. Implementing lazy loading improved performance, cutting initial load times by 10%.
 
-📌 My **Web Development** journey began in **2018** when I completed my diploma and designed a website for the college committee and interned with some micro-enterprises. Now it's almost more than 5 𝐲𝐞𝐚𝐫𝐬, I have been programming and have discovered my passion for **Frontend Web Development.**
+📌 My technical journey also includes upgrading several applications from Node.js version 12 to 20. This upgrade involved resolving security issues, updating dependencies, and replacing deprecated code to maintain modern standards and functionality. I also implemented CI/CD pipelines using GitLab across multiple projects, automating deployment processes and streamlining builds to enhance efficiency and reliability.
+
+📌 Effective communication with product and business teams has been crucial in my roles, enabling me to gather requirements, align with project objectives, and deliver results that meet both technical and business goals. I am excited to continue leveraging my skills in frontend development to contribute to innovative fintech solutions and drive technological advancements.
 
 ---------------------------------------------------------------------------------------------------
 𝗠𝘆 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀💻
