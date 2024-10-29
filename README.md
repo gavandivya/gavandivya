@@ -58,7 +58,6 @@ Familiar with Backend Development and Database management ➡
 
 ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=plastic&logo=hashnode&logoColor=white) - https://hashnode.com/@gavandivya19
 
-
 <br>
 <h2>Github stats :bar_chart:</h2>
 <div>
