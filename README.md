@@ -10,7 +10,7 @@
 
 ## 𝗛𝗲𝗹𝗹𝗼, 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗼𝗻𝘀! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-📌 I am **Divya R. Gavandi,** pursued my **B.Tech in Computer Science from Sardar Patel Institute of Technology, Mumbai (𝗦𝗣𝗜𝗧'𝟮𝟭)** 
+📌 I am **Divya R. Gavandi,** pursued my **B.Tech in Computer Engineering from Sardar Patel Institute of Technology, Mumbai (𝗦𝗣𝗜𝗧'𝟮𝟭)** 
 
 📌 As a passionate Frontend Web Developer, I thrive on creating dynamic and user-centric web applications that drive innovation in the fintech space. My journey began with a fascination for coding and problem-solving, which led me to specialize in React.js and modern frontend technologies.
 
