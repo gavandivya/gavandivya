@@ -50,7 +50,7 @@ Familiar with Backend Development and Database management ➡
 
 📫 Let's connect at 
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white) - onlyforcode19@gmail.com
+![LeetCode](https://img.shields.io/badge/Leetcode-%23000000.svg?style=plastic&logo=leetcode&logoColor=white) - https://leetcode.com/u/gavandivya19/
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white) -  www.linkedin.com/in/divya-gavandi
 
@@ -58,7 +58,7 @@ Familiar with Backend Development and Database management ➡
 
 ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=plastic&logo=hashnode&logoColor=white) - https://hashnode.com/@gavandivya19
 
-https://leetcode.com/u/gavandivya19/
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white) - onlyforcode19@gmail.com
 
 <br>
 <h2>Github stats :bar_chart:</h2>
