@@ -20,7 +20,7 @@
 
 📌 Effective communication with product and business teams has been crucial in my roles, enabling me to gather requirements, align with project objectives, and deliver results that meet both technical and business goals. I am excited to continue leveraging my skills in frontend development to contribute to innovative fintech solutions and drive technological advancements.
 
------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 𝗠𝘆 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀💻
 
 Languages ➡ 
