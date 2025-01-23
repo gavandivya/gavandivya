@@ -48,7 +48,7 @@ Familiar with Backend Development and Database management ➡
 
 Problem Solving - ![LeetCode](https://img.shields.io/badge/Leetcode-%23000000.svg?style=plastic&logo=leetcode&logoColor=white) - https://leetcode.com/u/gavandivya19/
 
------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
 📫 Let's connect at 
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white) -  www.linkedin.com/in/divya-gavandi
