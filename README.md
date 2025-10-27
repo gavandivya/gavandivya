@@ -9,19 +9,22 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gavandivya&style=plastic" alt="profile-view" /></p>
 
-## 𝗛𝗲𝗹𝗹𝗼, 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗼𝗻𝘀! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+## 👋 Hi, I'm Divya R. Gavandi
 
+🎓 B.Tech in Computer Engineering from Sardar Patel Institute of Technology, Mumbai (SPIT’21)
+
+💻 Frontend Web Developer | Passionate about building dynamic, user-centric fintech applications
 📌 I am **Divya R. Gavandi,** pursued my **B.Tech in Computer Engineering from Sardar Patel Institute of Technology, Mumbai (𝗦𝗣𝗜𝗧'𝟮𝟭)** 
 
 📌 As a passionate Frontend Web Developer, I thrive on creating dynamic and user-centric web applications that drive innovation in the fintech space. My journey began with a fascination for coding and problem-solving, which led me to specialize in React.js and modern frontend technologies.
 
 📌 I have experience upgrading Node.js applications, addressing security vulnerabilities, and implementing CI/CD pipelines with GitLab to streamline deployments. Implementing lazy loading improved performance, cutting initial load times by 10%.
 
-📌 My technical journey also includes upgrading several applications from Node.js version 12 to 20. This upgrade involved resolving security issues, updating dependencies, and replacing deprecated code to maintain modern standards and functionality. I also implemented CI/CD pipelines using GitLab across multiple projects, automating deployment processes and streamlining builds to enhance efficiency and reliability.
-
-📌 Effective communication with product and business teams has been crucial in my roles, enabling me to gather requirements, align with project objectives, and deliver results that meet both technical and business goals. I am excited to continue leveraging my skills in frontend development to contribute to innovative fintech solutions and drive technological advancements.
+📌 My technical journey also includes implementing CI/CD pipelines using GitLab across multiple projects, automating deployment processes and streamlining builds to enhance efficiency and reliability.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 𝗠𝘆 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀💻
 
 Languages ➡ 
