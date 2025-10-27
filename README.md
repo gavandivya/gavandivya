@@ -14,7 +14,6 @@
 🎓 B.Tech in Computer Engineering from Sardar Patel Institute of Technology, Mumbai (SPIT’21)
 
 💻 Frontend Web Developer | Passionate about building dynamic, user-centric fintech applications
-📌 I am **Divya R. Gavandi,** pursued my **B.Tech in Computer Engineering from Sardar Patel Institute of Technology, Mumbai (𝗦𝗣𝗜𝗧'𝟮𝟭)** 
 
 📌 As a passionate Frontend Web Developer, I thrive on creating dynamic and user-centric web applications that drive innovation in the fintech space. My journey began with a fascination for coding and problem-solving, which led me to specialize in React.js and modern frontend technologies.
 
