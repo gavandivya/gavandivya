@@ -13,10 +13,13 @@
 ## 👋 Hi, I'm Divya R. Gavandi
 
 🎓 Education
+
 B.Tech in Computer Engineering
+
 Sardar Patel Institute of Technology (SPIT), Mumbai — 2021
 
 💻 About Me
+
 I am a Frontend Web Developer passionate about building dynamic, user-centric applications that drive innovation in the fintech domain. My journey began with a deep interest in coding and problem-solving, which led me to specialize in React.js and modern frontend technologies.
 
 🔍 What I Do
