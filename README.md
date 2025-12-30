@@ -12,17 +12,33 @@
 
 ## 👋 Hi, I'm Divya R. Gavandi
 
-🎓 B.Tech in Computer Engineering from Sardar Patel Institute of Technology, Mumbai (SPIT’21)
+🎓 Education
+B.Tech in Computer Engineering
+Sardar Patel Institute of Technology (SPIT), Mumbai — 2021
 
-💻 Frontend Web Developer | Passionate about building dynamic, user-centric fintech applications
+💻 About Me
+I am a Frontend Web Developer passionate about building dynamic, user-centric applications that drive innovation in the fintech domain. My journey began with a deep interest in coding and problem-solving, which led me to specialize in React.js and modern frontend technologies.
 
-📌 As a passionate Frontend Web Developer, I thrive on creating dynamic and user-centric web applications that drive innovation in the fintech space. My journey began with a fascination for coding and problem-solving, which led me to specialize in React.js and modern frontend technologies.
+🔍 What I Do
 
-📌 I have experience upgrading Node.js applications, addressing security vulnerabilities, and implementing CI/CD pipelines with GitLab to streamline deployments. Implementing lazy loading improved performance, cutting initial load times by 10%.
+📌 Frontend Development: Crafting responsive, interactive, and scalable web applications using React.js and related frameworks.
 
-📌 My technical journey also includes implementing CI/CD pipelines using GitLab across multiple projects, automating deployment processes and streamlining builds to enhance efficiency and reliability.
+📌 Performance Optimization: Implemented lazy loading strategies to reduce initial load times by 10%, enhancing user experience.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+📌 Security & Upgrades: Experienced in upgrading Node.js applications and addressing security vulnerabilities to ensure robust and secure systems.
+
+📌 CI/CD Automation: Designed and implemented GitLab CI/CD pipelines across multiple projects, streamlining deployments and improving build reliability.
+
+
+🌟 Key Strengths
+
+📌 Strong foundation in JavaScript, React.js, and modern frontend ecosystems.
+
+📌 Proven ability to optimize performance and automate workflows for efficiency.
+
+📌 Passionate about delivering clean, maintainable code and user-focused solutions.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 𝗠𝘆 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀💻
 
